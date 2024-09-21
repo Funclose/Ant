@@ -1,0 +1,14 @@
+C:\Users\Artem\source\repos\AntHill\AntHill\bin\Debug\net8.0\AntHill.exe
+C:\Users\Artem\source\repos\AntHill\AntHill\bin\Debug\net8.0\AntHill.deps.json
+C:\Users\Artem\source\repos\AntHill\AntHill\bin\Debug\net8.0\AntHill.runtimeconfig.json
+C:\Users\Artem\source\repos\AntHill\AntHill\bin\Debug\net8.0\AntHill.dll
+C:\Users\Artem\source\repos\AntHill\AntHill\bin\Debug\net8.0\AntHill.pdb
+C:\Users\Artem\source\repos\AntHill\AntHill\obj\Debug\net8.0\AntHill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\AntHill\AntHill\obj\Debug\net8.0\AntHill.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\AntHill\AntHill\obj\Debug\net8.0\AntHill.AssemblyInfo.cs
+C:\Users\Artem\source\repos\AntHill\AntHill\obj\Debug\net8.0\AntHill.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\AntHill\AntHill\obj\Debug\net8.0\AntHill.dll
+C:\Users\Artem\source\repos\AntHill\AntHill\obj\Debug\net8.0\refint\AntHill.dll
+C:\Users\Artem\source\repos\AntHill\AntHill\obj\Debug\net8.0\AntHill.pdb
+C:\Users\Artem\source\repos\AntHill\AntHill\obj\Debug\net8.0\AntHill.genruntimeconfig.cache
+C:\Users\Artem\source\repos\AntHill\AntHill\obj\Debug\net8.0\ref\AntHill.dll
